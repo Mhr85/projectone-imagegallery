@@ -1,10 +1,10 @@
 body {
-  background-image: url("https://media1.giphy.com/media/l0K4lUxBzIOeJd1EA/giphy.gif");
+  background-color: #10131C;
   width: 100%;
 }
 
 .card {
-  background-image: url("https://media1.giphy.com/media/l0K4lUxBzIOeJd1EA/giphy.gif");
+  background-color: #10131C;
   border: none;
   margin: 0 10%;
 }
